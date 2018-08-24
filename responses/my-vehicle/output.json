@@ -1,0 +1,24 @@
+{
+  "lease": {
+    "type": "Novated Fleet Management Services (Third Party Payments)",
+    "endDate": "2023-01-21T00:55:42.000Z"
+  },
+  "woFExpiryDate": "2019-02-01T00:55:42.000Z",
+  "odometreReading": {
+    "lastValidReading": 80000,
+    "lastValidReadingDate": "2018-03-01T00:55:42.000Z"
+  },
+  "nextService": {
+    "nextServiceDate": "2018-08-01T00:55:42.000Z",
+    "nextServiceKm": 90000
+  },
+  "currentEstimatedOdo": 82000,
+  "projectedContractEndKm": 200000,
+  "contractKmLimit": 190000,
+  "remainingTyres": 4,
+  "overallBudget": {
+    "leaseBudget": 500000,
+    "lifeToDateBudget": 300000,
+    "lifeToDateSpend": 305000
+  }
+}

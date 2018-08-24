@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{head.title}}</title>
+</head>
+<body>
+<h1>{{content.title}}</h1>
+
+
+{{#content.description}}
+  <div>
+    <h2>{{url}}</h2>
+    <h4>Method: {{method}}</h4>
+    <div>end point: /mobiledriverservice/{{url}}</div>
+    <a href="/mobiledriverservice/{{url}}">{{url}}</a>
+    {{#postInput}}
+    <h4>Post input</h4>
+    <pre>{{inputJSON}}</pre>
+    {{/postInput}}
+    {{#getInput}}
+    <h4>GET input (part of URLs)</h4>
+    <pre>{{inputJSON}}</pre>
+    {{/getInput}}
+    {{#sessionToken}}
+    <h4>Session token (HTTP Header)</h4>
+    sessionToken: {{sessionToken}}
+    {{/sessionToken}}
+    <h4>Output</h4>
+    <pre>{{outputJson}}</pre>
+    <hr/>
+  </div>
+{{/content.description}}
+</body>
+</html>

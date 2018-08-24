@@ -1,0 +1,131 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "driverId": "113095",
+            "userId": 1491,
+            "givenName": "Mobile Api 2",
+            "surName": "Test",
+            "workPhoneNumber": "0298650247",
+            "mobilePhoneNumber": "0298650247",
+            "gender": "M",
+            "region": "AU",
+            "accountNumber": "O0004148",
+            "accountCategory": "VSP",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "contractDetails": {
+                        "contractNumber": "1241365/3",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "271XLW",
+                        "stateOfRego": "QLDAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2017",
+                        "make": "HOLDEN",
+                        "model": "ASTRA",
+                        "variant": "Holden ASTRA - 1.4 Turbo LT Sedan Auto Front Sedan 1.4 Gasoline Direct Inject 4 6 Automatic Unleaded 110 5 2017",
+                        "resourceItemId": "204642"
+                    },
+                    "fuelCards": [
+                        "7034305091982676"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "01/Aug/2022",
+                        "registrationExpiryDate": "30/Jul/2018",
+                        "lastValidOdometerReading": "7273",
+                        "lastValidOdometerDate": "12/Jan/2018",
+                        "nextServiceDate": "03/Aug/2018",
+                        "nextServiceOdo": "15000",
+                        "projectedKilometersTraveledAtEndOfTerm": "81420",
+                        "contractKilometers": "75000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 21718.8,
+                        "totalLifeToDateBudget": 3619.8,
+                        "totalLifeToDateSpend": 1791.27,
+                        "fuelOverallBudget": 9840,
+                        "fuelLTDBudget": 1640,
+                        "fuelLTDSpend": 853.37,
+                        "maintenanceOverallBudget": 2040,
+                        "maintenanceLTDBudget": 340,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 1103.4,
+                        "tyresLTDBudget": 183.9,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 5627.4,
+                        "insuranceLTDBudget": 937.9,
+                        "insuranceLTDSpent": 937.9,
+                        "registrationRenewalOverallBudget": 3108,
+                        "registrationRenewalLTDBudget": 518,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                },
+                {
+                    "contractDetails": {
+                        "contractNumber": "1230303/7",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "CS01SS",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2017",
+                        "make": "VOLKSWAGEN",
+                        "model": "TIGUAN",
+                        "variant": "Volkswagen TIGUAN - 162TSI Highline DSG 4x4 Sport Utility Vehicle 2 Gasoline Direct Inject 5 7 Automatic Premium Unleaded 162 5 2017",
+                        "resourceItemId": "199847"
+                    },
+                    "fuelCards": [
+                        "7034305092261583"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "14/Sep/2020",
+                        "registrationExpiryDate": "13/Sep/2018",
+                        "lastValidOdometerReading": "3510",
+                        "lastValidOdometerDate": "25/Dec/2017",
+                        "nextServiceDate": "15/Sep/2018",
+                        "nextServiceOdo": "15000",
+                        "projectedKilometersTraveledAtEndOfTerm": "38044",
+                        "contractKilometers": "45000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 15887.16,
+                        "totalLifeToDateBudget": 3971.79,
+                        "totalLifeToDateSpend": 513,
+                        "fuelOverallBudget": 5985,
+                        "fuelLTDBudget": 1496.25,
+                        "fuelLTDSpend": 513,
+                        "maintenanceOverallBudget": 1372.68,
+                        "maintenanceLTDBudget": 343.17,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 1360.08,
+                        "tyresLTDBudget": 340.02,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 4349.88,
+                        "insuranceLTDBudget": 1087.47,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 2819.52,
+                        "registrationRenewalLTDBudget": 704.88,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

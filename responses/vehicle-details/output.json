@@ -1,0 +1,48 @@
+{
+  "vehicles": [
+    {
+      "contractDetails": {
+        "contractNumber": "1234567/1",
+        "conId": "1001",
+        "clnId": "10001",
+        "productType": "VSP-FL"
+      },
+      "registration": {
+        "rego": "REG001",
+        "stateOfRego": "VIC"
+      },
+      "vehicleDetails": {
+        "year": "2017",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "variant": "Golf GTI",
+        "fmsId": "2001"
+      },
+      "fuelCards": [
+        "789456123987654"
+      ]
+    },
+    {
+      "contractDetails": {
+        "contractNumber": "1234567/1",
+        "conId": "1001",
+        "clnId": "10001",
+        "productType": "VSP-FL"
+      },
+      "registration": {
+        "rego": "REG002",
+        "stateOfRego": "VIC"
+      },
+      "vehicleDetails": {
+        "year": "2017",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "variant": "Golf GTI",
+        "fmsId": "2001"
+      },
+      "fuelCards": [
+        "789456123987654"
+      ]
+    }
+  ]
+}

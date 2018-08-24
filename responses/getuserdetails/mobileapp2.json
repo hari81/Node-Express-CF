@@ -1,0 +1,80 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "userId": 553,
+            "givenName": "Mobile App 2",
+            "surName": "Test",
+            "gender": "M",
+            "region": "AU",
+            "emailAddress": "mobileapp2@customfleet.com.au",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "driverId": "58528",
+                    "workPhoneNumber": "0400365723",
+                    "mobilePhoneNumber": "0400365723",
+                    "accountNumber": "155681",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1029004/5",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "CA54SR",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2014",
+                        "make": "NISSAN",
+                        "model": "PAFWAG",
+                        "variant": "Nissan Pathfinder Ti 4WD CVT Auto",
+                        "resourceItemId": "9002"
+                    },
+                    "fuelCards": [
+                        "7071340074944785"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "02/Oct/2018",
+                        "registrationExpiryDate": "02/Oct/2018",
+                        "lastValidOdometerReading": "9000",
+                        "lastValidOdometerDate": "30/Jul/2018",
+                        "nextServiceDate": "07/Feb/2019",
+                        "nextServiceOdo": "68212",
+                        "projectedKilometersTraveledAtEndOfTerm": "9412",
+                        "contractKilometers": "99996",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 20052,
+                        "totalLifeToDateBudget": 19216.5,
+                        "totalLifeToDateSpend": 16328.19,
+                        "fuelOverallBudget": 16319.52,
+                        "fuelLTDBudget": 15639.54,
+                        "fuelLTDSpend": 12370.3,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 3732.48,
+                        "registrationRenewalLTDBudget": 3576.96,
+                        "registrationRenewalLTDSpent": 3957.89
+                    }
+                }
+            ]
+        }
+    ]
+}

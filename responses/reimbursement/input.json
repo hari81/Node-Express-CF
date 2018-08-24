@@ -1,0 +1,21 @@
+{
+  "rego": "REG001",
+  "driver": {
+    "firstName": "Mumtaz",
+    "lastName": "Bakan",
+    "emailAddress": "mbakan@customfleet.com.au",
+    "phoneNumber": "0435777888"
+  },
+  "bankDetails": {
+    "name": "NAB",
+    "BSB": "083925",
+    "accountName": "Mumtaz Bakan",
+    "accountNumber": "32875421"
+  },
+  "reimbursement": {
+    "category": "Fuel",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut aliqua.",
+    "amount": "1,000.5"
+  },
+  "region": "AU"
+}

@@ -1,0 +1,132 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "driverId": "124955",
+            "userId": 17230,
+            "givenName": "Auto",
+            "surName": "VSP Driver",
+            "workPhoneNumber": "03876688989",
+            "gender": "M",
+            "region": "AU",
+            "accountNumber": "O0004148",
+            "accountCategory": "VSP",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "contractDetails": {
+                        "contractNumber": "1227408/3",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "DQD60D",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2017",
+                        "make": "MINI",
+                        "model": "COUNTRYMAN",
+                        "variant": "MINI COUNTRYMAN F60 2.0 Cooper S Steptronic Front Sport Utility Vehicle 2 Gasoline Direct Inject 5 8 Automatic Unleaded 141 5 2017",
+                        "resourceItemId": "195513"
+                    },
+                    "fuelCards": [
+                        " 7071340081629619",
+                        "7034305092145356"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "24/Aug/2022",
+                        "registrationExpiryDate": "24/Aug/2018",
+                        "lastValidOdometerReading": "12318",
+                        "lastValidOdometerDate": "05/Jul/2018",
+                        "nextServiceDate": "26/Aug/2018",
+                        "nextServiceOdo": "15000",
+                        "projectedKilometersTraveledAtEndOfTerm": "71588",
+                        "contractKilometers": "75000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 23349.6,
+                        "totalLifeToDateBudget": 3502.44,
+                        "totalLifeToDateSpend": 1729.36,
+                        "fuelOverallBudget": 8100,
+                        "fuelLTDBudget": 1215,
+                        "fuelLTDSpend": 384.31,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 1398.6,
+                        "tyresLTDBudget": 209.79,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 8967,
+                        "insuranceLTDBudget": 1345.05,
+                        "insuranceLTDSpent": 1345.05,
+                        "registrationRenewalOverallBudget": 4884,
+                        "registrationRenewalLTDBudget": 732.6,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                },
+                {
+                    "contractDetails": {
+                        "contractNumber": "1233707/4",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "1KH3WQ",
+                        "stateOfRego": "VICAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2017",
+                        "make": "TOYOTA",
+                        "model": "86",
+                        "variant": "Toyota 86 - 2.0 GT Rear Coupe 2 Gasoline Direct Inject 2 6 Manual Premium Unleaded 152 4 2017",
+                        "resourceItemId": "199610"
+                    },
+                    "fuelCards": [
+                        " 7071340083390079",
+                        "7034305091703205"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "20/Jun/2020",
+                        "registrationExpiryDate": "21/Jun/2018",
+                        "lastValidOdometerReading": "14912",
+                        "lastValidOdometerDate": "10/Apr/2018",
+                        "nextServiceDate": "22/Mar/2018",
+                        "nextServiceOdo": "15000",
+                        "projectedKilometersTraveledAtEndOfTerm": "55726",
+                        "contractKilometers": "30000",
+                        "numberOfReplacementTyresRemaining": "0",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 10137.6,
+                        "totalLifeToDateBudget": 3379.2,
+                        "totalLifeToDateSpend": 1367.45,
+                        "fuelOverallBudget": 4989.6,
+                        "fuelLTDBudget": 1663.2,
+                        "fuelLTDSpend": 1367.45,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 3564,
+                        "insuranceLTDBudget": 1188,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 1584,
+                        "registrationRenewalLTDBudget": 528,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

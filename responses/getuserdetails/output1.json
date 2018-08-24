@@ -1,0 +1,79 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "driverId": "102148",
+            "userId": 15842,
+            "givenName": "Mobile Api",
+            "surName": "Test",
+            "workPhoneNumber": "0353816200",
+            "gender": "M",
+            "region": "AU",
+            "accountNumber": "S0005426",
+            "accountCategory": "VSP",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "contractDetails": {
+                        "contractNumber": "1280921/4",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "DSL50P",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2018",
+                        "make": "VOLKSWAGEN",
+                        "model": "TIGUAN",
+                        "variant": "Volkswagen TIGUAN - 132TSI Adventure DSG 4x4 Sport Utility Vehicle 2 Gasoline Direct Inject 5 7 Automatic Premium Unleaded 132 5 2018",
+                        "resourceItemId": "232249"
+                    },
+                    "fuelCards": [
+                        "7034305092945128",
+                        "TX01-7034305092945128"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "10/Jan/2021",
+                        "registrationExpiryDate": "10/Jan/2019",
+                        "lastValidOdometerReading": "1",
+                        "lastValidOdometerDate": "11/Jan/2018",
+                        "nextServiceDate": "11/Jan/2019",
+                        "nextServiceOdo": "15000",
+                        "projectedKilometersTraveledAtEndOfTerm": "0",
+                        "contractKilometers": "30000",
+                        "numberOfReplacementTyresRemaining": "0",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 13714.56,
+                        "totalLifeToDateBudget": 1904.8,
+                        "totalLifeToDateSpend": 782.05,
+                        "fuelOverallBudget": 4554,
+                        "fuelLTDBudget": 632.5,
+                        "fuelLTDSpend": 0,
+                        "maintenanceOverallBudget": 999.36,
+                        "maintenanceLTDBudget": 138.8,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 5630.76,
+                        "insuranceLTDBudget": 782.05,
+                        "insuranceLTDSpent": 782.05,
+                        "registrationRenewalOverallBudget": 2530.44,
+                        "registrationRenewalLTDBudget": 351.45,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

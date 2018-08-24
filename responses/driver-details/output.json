@@ -1,0 +1,18 @@
+{
+  "drivers": [
+    {
+      "involvedPartyID": "124908",
+      "givenName": "Sinchan",
+      "surName": "Ghosh",
+      "roleDetails": "DRIVER",
+      "emailAddress": "mbakan@customfleet.com.au",
+      "phoneNumber": "0435777888",
+      "gender": "M",
+      "region": "AU",
+      "account": {
+        "accountNumber": "S0005426",
+        "accountCategory": "VSP"
+      }
+    }
+  ]
+}

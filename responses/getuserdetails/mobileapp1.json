@@ -1,0 +1,365 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "userId": 52,
+            "givenName": "Mobile App 1",
+            "surName": "Test User",
+            "gender": "M",
+            "region": "AU",
+            "emailAddress": "mobileapp1@customfleet.com.au",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1027803/3",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "1BX6IN",
+                        "stateOfRego": "VICAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2013",
+                        "make": "NISSAN",
+                        "model": "PULHAT",
+                        "variant": "Nissan Pulsar SSS",
+                        "resourceItemId": "7802"
+                    },
+                    "fuelCards": [
+                        "7071340083522655"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "28/Jul/2019",
+                        "registrationExpiryDate": "29/Jul/2018",
+                        "lastValidOdometerReading": "80071",
+                        "lastValidOdometerDate": "26/Jun/2018",
+                        "nextServiceDate": "07/Aug/2018",
+                        "nextServiceOdo": "79718",
+                        "projectedKilometersTraveledAtEndOfTerm": "102331",
+                        "contractKilometers": "100000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 14448,
+                        "totalLifeToDateBudget": 13761.4,
+                        "totalLifeToDateSpend": 42291.15,
+                        "fuelOverallBudget": 12196.8,
+                        "fuelLTDBudget": 11646.24,
+                        "fuelLTDSpend": 40079.8,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 2251.2,
+                        "registrationRenewalLTDBudget": 2115.16,
+                        "registrationRenewalLTDSpent": 2211.35
+                    }
+                },
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1023135/2",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "1DI9AG",
+                        "stateOfRego": "VICAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2014",
+                        "make": "HOLDEN",
+                        "model": "COMSED",
+                        "variant": "Holden VF Commodore SV6 Active Select",
+                        "resourceItemId": "3134"
+                    },
+                    "fuelCards": [
+                        "7071340075093582"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "23/Oct/2018",
+                        "registrationExpiryDate": "24/Oct/2018",
+                        "lastValidOdometerReading": "85540",
+                        "lastValidOdometerDate": "27/Jun/2018",
+                        "nextServiceDate": "",
+                        "nextServiceOdo": null,
+                        "projectedKilometersTraveledAtEndOfTerm": "93061",
+                        "contractKilometers": "90000",
+                        "numberOfReplacementTyresRemaining": "0",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 13672.32,
+                        "totalLifeToDateBudget": 12532.96,
+                        "totalLifeToDateSpend": 32401.17,
+                        "fuelOverallBudget": 11520,
+                        "fuelLTDBudget": 10560,
+                        "fuelLTDSpend": 30165.92,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 2152.32,
+                        "registrationRenewalLTDBudget": 1972.96,
+                        "registrationRenewalLTDSpent": 2235.25
+                    }
+                },
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1020803/5",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "COG12X",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2014",
+                        "make": "HOLDEN",
+                        "model": "COMWAG",
+                        "variant": "Holden VF Commodore SV6 Active Select",
+                        "resourceItemId": "803"
+                    },
+                    "fuelCards": [
+                        "7071340071669963"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "18/Sep/2018",
+                        "registrationExpiryDate": "28/Feb/2019",
+                        "lastValidOdometerReading": "201703",
+                        "lastValidOdometerDate": "19/Jun/2018",
+                        "nextServiceDate": "22/Aug/2018",
+                        "nextServiceOdo": "208124",
+                        "projectedKilometersTraveledAtEndOfTerm": "212288",
+                        "contractKilometers": "210000",
+                        "numberOfReplacementTyresRemaining": "0",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 29798.4,
+                        "totalLifeToDateBudget": 28019.16,
+                        "totalLifeToDateSpend": 48168.08,
+                        "fuelOverallBudget": 24998.4,
+                        "fuelLTDBudget": 23584.8,
+                        "fuelLTDSpend": 44626.81,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 4800,
+                        "registrationRenewalLTDBudget": 4434.36,
+                        "registrationRenewalLTDSpent": 3541.27
+                    }
+                },
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1021643/2",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "D04UQ",
+                        "stateOfRego": "TASAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2014",
+                        "make": "VOLKSWAGEN",
+                        "model": "GOLWAG",
+                        "variant": "VW Golf 103TSI Highline DSG 7sp Auto",
+                        "resourceItemId": "1643"
+                    },
+                    "fuelCards": [
+                        "7071340073371360"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "05/May/2018",
+                        "registrationExpiryDate": "05/Nov/2018",
+                        "lastValidOdometerReading": "155460",
+                        "lastValidOdometerDate": "25/Jul/2018",
+                        "nextServiceDate": "13/Feb/2019",
+                        "nextServiceOdo": "154225",
+                        "projectedKilometersTraveledAtEndOfTerm": "147288",
+                        "contractKilometers": "150000",
+                        "numberOfReplacementTyresRemaining": "0",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 15391.98,
+                        "totalLifeToDateBudget": 15391.98,
+                        "totalLifeToDateSpend": 34804.56,
+                        "fuelOverallBudget": 13429.92,
+                        "fuelLTDBudget": 13429.92,
+                        "fuelLTDSpend": 33192.37,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 1962.06,
+                        "registrationRenewalLTDBudget": 1962.06,
+                        "registrationRenewalLTDSpent": 1612.19
+                    }
+                },
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1028653/5",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "DJ1964",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2012",
+                        "make": "TOYOTA",
+                        "model": "PRIHAT",
+                        "variant": "Toyota Prius Hybrid i-Tech CVT",
+                        "resourceItemId": "8651"
+                    },
+                    "fuelCards": [
+                        "7071340080572786"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "22/Aug/2018",
+                        "registrationExpiryDate": "21/Aug/2019",
+                        "lastValidOdometerReading": "45716",
+                        "lastValidOdometerDate": "09/Jun/2018",
+                        "nextServiceDate": "",
+                        "nextServiceOdo": null,
+                        "projectedKilometersTraveledAtEndOfTerm": "47647",
+                        "contractKilometers": "100000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 15018.12,
+                        "totalLifeToDateBudget": 14510.26,
+                        "totalLifeToDateSpend": 6954.6,
+                        "fuelOverallBudget": 6240,
+                        "fuelLTDBudget": 6032,
+                        "fuelLTDSpend": 2754.26,
+                        "maintenanceOverallBudget": 3127.36,
+                        "maintenanceLTDBudget": 3015.76,
+                        "maintenanceLTDSpend": 1232.75,
+                        "tyresOverallBudget": 1552.28,
+                        "tyresLTDBudget": 1504.14,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 4098.48,
+                        "registrationRenewalLTDBudget": 3958.36,
+                        "registrationRenewalLTDSpent": 2967.59
+                    }
+                },
+                {
+                    "driverId": "72320",
+                    "workPhoneNumber": null,
+                    "mobilePhoneNumber": "0404829695",
+                    "accountNumber": "158434",
+                    "accountCategory": "VSP",
+                    "contractDetails": {
+                        "contractNumber": "1025316/1",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "CB23IB",
+                        "stateOfRego": "NTAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2014",
+                        "make": "HOLDEN",
+                        "model": "COMSED",
+                        "variant": "Holden VF Commodore SS Active Select",
+                        "resourceItemId": "5315"
+                    },
+                    "fuelCards": [
+                        "7071340072722951"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "06/Feb/2019",
+                        "registrationExpiryDate": "06/Feb/2019",
+                        "lastValidOdometerReading": "99308",
+                        "lastValidOdometerDate": "23/Jun/2018",
+                        "nextServiceDate": "28/Aug/2018",
+                        "nextServiceOdo": "103088",
+                        "projectedKilometersTraveledAtEndOfTerm": "113485",
+                        "contractKilometers": "100000",
+                        "numberOfReplacementTyresRemaining": "2",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 21169.3,
+                        "totalLifeToDateBudget": 18244.5,
+                        "totalLifeToDateSpend": 56659.16,
+                        "fuelOverallBudget": 17633.5,
+                        "fuelLTDBudget": 15180.14,
+                        "fuelLTDSpend": 52800.06,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 3535.8,
+                        "registrationRenewalLTDBudget": 3064.36,
+                        "registrationRenewalLTDSpent": 3859.1
+                    }
+                }
+            ]
+        }
+    ]
+}

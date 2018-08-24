@@ -1,0 +1,183 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Success",
+    "detailMessage": "Service call is successful.",
+    "driversList": [
+        {
+            "driverId": "12802",
+            "userId": 1493,
+            "givenName": "Mobile Api 3",
+            "surName": "Test",
+            "mobilePhoneNumber": "0432445057",
+            "gender": "U",
+            "region": "AU",
+            "accountNumber": "157399",
+            "accountCategory": "VSP",
+            "ipnDetails": {
+                "acceptanceStatus": "N",
+                "ipnContent": "<html><body>DUMMY IPN CONTENT 3----------------   DUMMY IPN CONTENT -------------------  DUMMY IPN CONTENT</body></html>",
+                "ipnRegistryId": "1",
+                "ipnVersion": "1.0"
+            },
+            "vehiclesList": [
+                {
+                    "contractDetails": {
+                        "contractNumber": "1069266/3",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "DBF98B",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2016",
+                        "make": "HOLDEN",
+                        "model": "COLPIC",
+                        "variant": "Holden Colorado LTZ 4x4 Crew Cab P/Up",
+                        "resourceItemId": "69260"
+                    },
+                    "fuelCards": [
+                        "7034305088310527"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "15/Oct/2019",
+                        "registrationExpiryDate": "15/Oct/2018",
+                        "lastValidOdometerReading": "58137",
+                        "lastValidOdometerDate": "12/Jan/2018",
+                        "nextServiceDate": "05/Jul/2018",
+                        "nextServiceOdo": "64566",
+                        "projectedKilometersTraveledAtEndOfTerm": "103637",
+                        "contractKilometers": "100000",
+                        "numberOfReplacementTyresRemaining": "8",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 28808.41,
+                        "totalLifeToDateBudget": 19393.66,
+                        "totalLifeToDateSpend": 11519.43,
+                        "fuelOverallBudget": 16380,
+                        "fuelLTDBudget": 11261.25,
+                        "fuelLTDSpend": 6920.44,
+                        "maintenanceOverallBudget": 3243.13,
+                        "maintenanceLTDBudget": 1817.53,
+                        "maintenanceLTDSpend": 1120.99,
+                        "tyresOverallBudget": 2160,
+                        "tyresLTDBudget": 1485,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 2579.52,
+                        "insuranceLTDBudget": 1773.42,
+                        "insuranceLTDSpent": 1965,
+                        "registrationRenewalOverallBudget": 4445.76,
+                        "registrationRenewalLTDBudget": 3056.46,
+                        "registrationRenewalLTDSpent": 1513
+                    }
+                },
+                {
+                    "contractDetails": {
+                        "contractNumber": "1044203/4",
+                        "productType": "VSP-FL"
+                    },
+                    "registration": {
+                        "rego": "BTY04J",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2011",
+                        "make": "LAND ROVER",
+                        "model": "FREWAG",
+                        "variant": "Land Rover Freelander TD4",
+                        "resourceItemId": "44197"
+                    },
+                    "fuelCards": [
+                        "7034305086019641",
+                        "7034305092132354"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "13/Jul/2018",
+                        "registrationExpiryDate": "01/Sep/2018",
+                        "lastValidOdometerReading": "173282",
+                        "lastValidOdometerDate": "16/Jan/2018",
+                        "nextServiceDate": "10/Nov/2018",
+                        "nextServiceOdo": "187604",
+                        "projectedKilometersTraveledAtEndOfTerm": "185805",
+                        "contractKilometers": "182000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 38053.74,
+                        "totalLifeToDateBudget": 37686.97,
+                        "totalLifeToDateSpend": 35038.31,
+                        "fuelOverallBudget": 20622.48,
+                        "fuelLTDBudget": 20366.13,
+                        "fuelLTDSpend": 18156.03,
+                        "maintenanceOverallBudget": 10117.74,
+                        "maintenanceLTDBudget": 10117.74,
+                        "maintenanceLTDSpend": 10443.82,
+                        "tyresOverallBudget": 1322.64,
+                        "tyresLTDBudget": 1322.63,
+                        "tyresLTDSpend": 1139.48,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 5990.88,
+                        "registrationRenewalLTDBudget": 5880.47,
+                        "registrationRenewalLTDSpent": 5298.98
+                    }
+                },
+                {
+                    "contractDetails": {
+                        "contractNumber": "1169493/1",
+                        "productType": "VSP-OL"
+                    },
+                    "registration": {
+                        "rego": "DHN34E",
+                        "stateOfRego": "NSWAUS"
+                    },
+                    "vehicleDetails": {
+                        "year": "2015",
+                        "make": "JEEP",
+                        "model": "GRAND CHEROKEE",
+                        "variant": "Jeep GRAND CHEROKEE WK 3.0 CRD Laredo Auto 4x4 Sport Utility Vehicle 3 Diesel Common Rail 5 8 Automatic Diesel 184 5 2015",
+                        "resourceItemId": "149242"
+                    },
+                    "fuelCards": [
+                        "7034305090147420"
+                    ],
+                    "myVehicle": {
+                        "leaseEndDate": "30/Aug/2019",
+                        "registrationExpiryDate": "29/Aug/2018",
+                        "lastValidOdometerReading": "32106",
+                        "lastValidOdometerDate": "12/Jan/2018",
+                        "nextServiceDate": "19/Sep/2018",
+                        "nextServiceOdo": "35025",
+                        "projectedKilometersTraveledAtEndOfTerm": "70387",
+                        "contractKilometers": "75000",
+                        "numberOfReplacementTyresRemaining": "4",
+                        "wofExpiryDate": null
+                    },
+                    "myBudget": {
+                        "totalOverallBudget": 12555,
+                        "totalLifeToDateBudget": 7323.75,
+                        "totalLifeToDateSpend": 3114.22,
+                        "fuelOverallBudget": 12555,
+                        "fuelLTDBudget": 7323.75,
+                        "fuelLTDSpend": 3114.22,
+                        "maintenanceOverallBudget": 0,
+                        "maintenanceLTDBudget": 0,
+                        "maintenanceLTDSpend": 0,
+                        "tyresOverallBudget": 0,
+                        "tyresLTDBudget": 0,
+                        "tyresLTDSpend": 0,
+                        "insuranceOverallBudget": 0,
+                        "insuranceLTDBudget": 0,
+                        "insuranceLTDSpent": 0,
+                        "registrationRenewalOverallBudget": 0,
+                        "registrationRenewalLTDBudget": 0,
+                        "registrationRenewalLTDSpent": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

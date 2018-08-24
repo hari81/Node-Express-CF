@@ -1,0 +1,48 @@
+{
+    "id": "102Q2f2W1y0TOGaU3CFb42peA",
+    "userId": "00ueag1wt7HHvYzzl0h7",
+    "mfaActive": false,
+    "cookieToken": null,
+    "cookieTokenUrl": null,
+    "createdAt": "2018-06-04T05:36:30.000Z",
+    "lastFactorVerification": null,
+    "idp": {
+        "id": "00o91c6388YT0ttcU0h7",
+        "type": "OKTA"
+    },
+    "_links": {
+        "self": {
+            "href": "https://cfanz.oktapreview.com/api/v1/sessions/me",
+            "hints": {
+                "allow": [
+                    "GET",
+                    "DELETE"
+                ]
+            }
+        },
+        "refresh": {
+            "href": "https://cfanz.oktapreview.com/api/v1/sessions/me/lifecycle/refresh",
+            "hints": {
+                "allow": [
+                    "POST"
+                ]
+            }
+        },
+        "user": {
+            "name": "sarvesh kumar",
+            "href": "https://cfanz.oktapreview.com/api/v1/users/me",
+            "hints": {
+                "allow": [
+                    "GET"
+                ]
+            }
+        }
+    },
+    "amr": [
+        "pwd"
+    ],
+    "login": "sarveshkoptus@cfanz.invalid",
+    "expiresAt": "2018-06-04T09:36:30.000Z",
+    "status": "ACTIVE",
+    "lastPasswordVerification": "2018-06-04T05:36:30.000Z"
+}

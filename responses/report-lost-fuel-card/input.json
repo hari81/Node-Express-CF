@@ -1,0 +1,12 @@
+{
+  "driver": {
+    "firstName": "Mumtaz",
+    "lastName": "Bakan",
+    "emailAddress": "mbakan@customfleet.com.au",
+    "phoneNumber": "0435777888"
+  },
+  "rego": "REG001",
+  "contractNumber": "1234567/1",
+  "fuelCardNumber": "789456123987654",
+  "region": "AU"
+}

@@ -1,0 +1,32 @@
+{
+  "overall": {
+    "leaseBudget": 500000,
+    "lifeToDateBudget": 300000,
+    "lifeToDateSpend": 305000
+  },
+  "fuel": {
+    "leaseBudget": 100000,
+    "lifeToDateBudget": 90000,
+    "lifeToDateSpend": 95000
+  },
+  "maintenance": {
+    "leaseBudget": 110000,
+    "lifeToDateBudget": 100000,
+    "lifeToDateSpend": 105000
+  },
+  "tyres": {
+    "leaseBudget": 120000,
+    "lifeToDateBudget": 110000,
+    "lifeToDateSpend": 115000
+  },
+  "renewal": {
+    "leaseBudget": 130000,
+    "lifeToDateBudget": 120000,
+    "lifeToDateSpend": 125000
+  },
+  "insurance": {
+    "leaseBudget": 140000,
+    "lifeToDateBudget": 130000,
+    "lifeToDateSpend": 135000
+  }
+}
